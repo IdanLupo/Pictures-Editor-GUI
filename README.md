@@ -2,6 +2,7 @@
 Image manipulation with GUI implementation 
 
 Welcome to Instush! 
+
 This program will work the best on windows with attached Kitesurf photos. 
 the program will take choosen pictures > filter picture with choosen filter > show filter preview > save pictures after filter
 
